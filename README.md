@@ -65,7 +65,7 @@ The Ethical Hacking Code Simulator lets you practice hacking techniques in a vir
 Contributions are welcome! Please review the CONTRIBUTING.md file for guidelines on how to help.
 
 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the BSD -3-Clause License.
 
 📬 Contact
 For questions, collaborations, or feedback, please reach out to:
