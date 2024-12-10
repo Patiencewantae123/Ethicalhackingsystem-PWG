@@ -4,7 +4,7 @@
 
 ![Ethical Hacking Banner](images/ethical_hacking_banner.png)
 
-## 📜 Table of Contents
+## 🔜 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 Overview
+## 📚 Overview
 
 This guide is designed for beginners interested in learning the fundamentals of ethical hacking. The **Ethical Hacking Guide & Code Simulator** covers theoretical knowledge, practical exercises, and a code simulator that emulates real-world scenarios in a safe, controlled environment.
 
@@ -36,41 +36,58 @@ This guide is designed for beginners interested in learning the fundamentals of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/ethical-hacking-guide.git
+   git clone https://github.com/Patiencewantae123/ethical-hacking-guide.git
    cd ethical-hacking-guide
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+   ```
 
-🚀 Usage
-Follow the Ethical Hacking Guide for tutorials and concepts.
-Launch the Code Simulator for hands-on practice.
-Progress through levels of difficulty, learning to identify and defend against vulnerabilities.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-🧩 Modules
+---
+
+## 🚀 Usage
+
+1. Follow the **Ethical Hacking Guide** for tutorials and concepts.
+2. Launch the **Code Simulator** for hands-on practice.
+3. Progress through levels of difficulty, learning to identify and defend against vulnerabilities.
+
+---
+
+## 🧩 Modules
+
 Each module explores a different area of ethical hacking:
 
-Network Security Basics
-Web Application Security
-Cryptography and Data Security
-Penetration Testing Fundamentals
-Vulnerability Analysis
+- **Network Security Basics**
+- **Web Application Security**
+- **Cryptography and Data Security**
+- **Penetration Testing Fundamentals**
+- **Vulnerability Analysis**
 
-💻 Simulator
+---
+
+## 💻 Simulator
+
 The Ethical Hacking Code Simulator lets you practice hacking techniques in a virtual lab. Each task includes step-by-step instructions and hints to guide you through identifying and mitigating vulnerabilities.
 
+---
 
-🤝 Contributing
-Contributions are welcome! Please review the CONTRIBUTING.md file for guidelines on how to help.
+## 🤝 Contributing
 
-📄 License
-This project is licensed under the BSD -3-Clause License.
+Contributions are welcome! Please review the [CONTRIBUTING.md](https://github.com/Patiencewantae123/ethical-hacking-guide/blob/main/CONTRIBUTING.md) file for guidelines on how to help.
 
-📬 Contact
+---
+
+## 📄 License
+
+This project is licensed under the **BSD 3-Clause License**. See the [LICENSE](https://github.com/Patiencewantae123/ethical-hacking-guide/blob/main/LICENSE) file for details.
+
+---
+
+## 📨 Contact
+
 For questions, collaborations, or feedback, please reach out to:
 
-Your Name
-
-GitHub: @Patiencewantae123
-
+**Patience Wangui**  
+GitHub: [@Patiencewantae123](https://github.com/Patiencewantae123)
