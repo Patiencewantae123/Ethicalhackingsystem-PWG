@@ -1,8 +1,8 @@
-# Ethical Hacking Guide & Code Simulator
+# Ethical Hacking Guide & Code Simulator 
 
 **Ethical Hacking Guide & Code Simulator** is an educational project designed to introduce ethical hacking concepts, tools, and practices. This guide provides a safe, controlled environment for users to learn about cybersecurity threats, vulnerabilities, and protective measures, along with a simulator for hands-on hacking exercises.
 
-![Ethical Hacking Banner](images/ethical_hacking_banner.png)
+![Ethical Hacking Banner](https://user-images.githubusercontent.com/placeholder/ethical_hacking_banner.png)
 
 ## 🔜 Table of Contents
 - [Overview](#overview)
@@ -21,7 +21,7 @@
 
 This guide is designed for beginners interested in learning the fundamentals of ethical hacking. The **Ethical Hacking Guide & Code Simulator** covers theoretical knowledge, practical exercises, and a code simulator that emulates real-world scenarios in a safe, controlled environment.
 
-![Overview of Features](images/overview_features.png)
+![Overview of Features](https://user-images.githubusercontent.com/placeholder/overview_features.png)
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ This guide is designed for beginners interested in learning the fundamentals of 
 - **Real-World Scenarios**: Hands-on challenges simulate realistic hacking scenarios.
 - **Visual Learning**: Includes diagrams, pictorials, and flowcharts to aid learning.
 
-![Features Showcase](images/features_showcase.png)
+![Features Showcase](https://user-images.githubusercontent.com/placeholder/features_showcase.png)
 
 ## 🛠️ Installation
 
@@ -49,7 +49,7 @@ This guide is designed for beginners interested in learning the fundamentals of 
 
 ## 🚀 Usage
 
-1. Follow the **Ethical Hacking Guide** for tutorials and concepts.
+1. Follow the [Kali Linux Ethical Hacking Tutorials](https://www.kali.org/docs/) for extended concepts.
 2. Launch the **Code Simulator** for hands-on practice.
 3. Progress through levels of difficulty, learning to identify and defend against vulnerabilities.
 
@@ -59,17 +59,19 @@ This guide is designed for beginners interested in learning the fundamentals of 
 
 Each module explores a different area of ethical hacking:
 
-- **Network Security Basics**
-- **Web Application Security**
-- **Cryptography and Data Security**
-- **Penetration Testing Fundamentals**
-- **Vulnerability Analysis**
+- **[Network Security Basics](https://www.cybrary.it/course/network-security/)**
+- **[Web Application Security](https://owasp.org/www-project-top-ten/)**
+- **[Cryptography and Data Security](https://cryptography.io/en/latest/)**
+- **[Penetration Testing Fundamentals](https://www.offensive-security.com/penetration-testing/)**
+- **[Vulnerability Analysis](https://cve.mitre.org/)**
 
 ---
 
 ## 💻 Simulator
 
 The Ethical Hacking Code Simulator lets you practice hacking techniques in a virtual lab. Each task includes step-by-step instructions and hints to guide you through identifying and mitigating vulnerabilities.
+
+Explore the online simulator: [TryHackMe](https://tryhackme.com/).
 
 ---
 
