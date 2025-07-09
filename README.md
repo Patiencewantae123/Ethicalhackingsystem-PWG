@@ -2,7 +2,7 @@
 
 **Ethical Hacking Guide & Code Simulator** is an educational project designed to introduce ethical hacking concepts, tools, and practices. This guide provides a safe, controlled environment for users to learn about cybersecurity threats, vulnerabilities, and protective measures, along with a simulator for hands-on hacking exercises.
 
-![Ethical Hacking Banner](https://user-images.githubusercontent.com/placeholder/ethical_hacking_banner.png)
+
 
 ## 🔜 Table of Contents
 - [Overview](#overview)
